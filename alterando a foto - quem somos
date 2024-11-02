@@ -1,0 +1,12 @@
+</section>
+
+    <!-- Seção "Quem Somos" -->
+    <section id="quem-somos" class="about-section">
+        <div class="quem-somos-container">
+            <img src="../static/profilePicture.jpeg" alt="Equipe Clínica">
+            <div class="quem-somos-text">
+                <h2>Quem Somos</h2>
+                <p>Somos uma clínica especializada em oferecer os melhores cuidados de beleza para você se sentir bem consigo mesma(o). Nossa equipe altamente qualificada utiliza os melhores produtos e técnicas inovadoras para garantir a sua satisfação.</p>
+            </div>
+        </div>
+    </section>
